@@ -1,0 +1,36 @@
+# dot files
+/.vscode/launch.json
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+/.clang-format
+
+# project out
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
+
+*.code-workspace
+
+cmake-*
+
+.idea
+.vscode
+.eide
+.eide-*
+
+Core/
+Drivers/
+Middlewares/
+
+Makefile
+CMakeLists.txt
+CMakeLists_template.txt
+*.s
+*.ld
+.*project
